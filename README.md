@@ -1,6 +1,6 @@
 # The Impact of AI on Students
 
-### 📝 About the Project
+### About the Project
 This project explores the relationship between students and Artificial Intelligence. Using the **'AI_impact' dataset from Kaggle**, this analysis attempts to answer key questions about how often students use AI tools,
 what they use them for, and how this technology ultimately affects their academic performance and daily routines.
 
