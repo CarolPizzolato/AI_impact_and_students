@@ -13,6 +13,6 @@ what they use them for, and how this technology ultimately affects their academi
 The data used in this project is sourced from Kaggle: [https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students]. 
 
 ### Technologies Used
-* **Language:** [Python]
-* **Libraries/Frameworks:** [Pandas and Matplotlib]
-* **Tools:** [Google Colab and Jupyter]
+* **Language:** Python
+* **Libraries/Frameworks:** Pandas and Matplotlib
+* **Tools:** Google Colab and Jupyter
